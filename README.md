@@ -1,7 +1,7 @@
 # 스크립트 파일 저장소입니다   
-   
 Releases 를 확인하세요
----
+  
+  
 ## 어쩌면 Skript-reflect 플러그인이 필요할수도 있습니다
   
 [스크립트 2.6.1 링크](https://github.com/SkriptLang/Skript/releases)   
