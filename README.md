@@ -6,4 +6,4 @@
 ---
 [유튜브 커맨드랩](https://www.youtube.com/channel/UChTAwGIHqwSKucL-wxkMVEw)에서 소개하는 스크립트를 저장해둔 장소입니다
 ---
-# Release를 확인하세요
+# Releases를 확인하세요
