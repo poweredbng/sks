@@ -5,3 +5,5 @@
 [스크립트 리플랙트 2.2.3 링크](https://github.com/TPGamesNL/skript-reflect/releases)   
 ---
 [유튜브 커맨드랩](https://www.youtube.com/channel/UChTAwGIHqwSKucL-wxkMVEw)에서 소개하는 스크립트를 저장해둔 장소입니다
+  
+위 저장소에서 원하는 스크립트를 열람하여 긁어가면 
